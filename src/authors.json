@@ -1,0 +1,54 @@
+[
+    {
+        "name": "JRR Tolkien",
+        "birthYear": 1892,
+        "books": {
+            "standAlones":
+                {
+                    "titles" : ["The Hobbit", "The Silmarillion"]
+                },
+            "series": [
+                {
+                    "name": "The Lord of The Rings",
+                    "quantity": 3,
+                    "titles": ["The Fellowship of the Ring", "The Two Towers", "The Return of the King"]
+                }
+            ]
+        }         
+    },
+    {
+        "name": "Robin Hobb",
+        "birthYear": 1952,
+        "books": {
+            "series": [
+                {
+                    "name": "The Soldier Son Trilogy",
+                    "quantity": 3,
+                    "titles": ["Shaman's Crossing", "Forest Mage", "Renegade's Magic"]
+                },
+                {
+                    "name": "The Farseer Trilogy",
+                    "quantity": 3,
+                    "titles": ["Assassin's Apprentice", "Royal Assassin", "Assassin's Quest"]
+                },
+                {
+                    "name": "The Tawny Man Trilogy",
+                    "quantity": 3,
+                    "titles": ["Fool's Errand", "Golden Fool", "Fool's Fate"]
+                }
+
+            ]
+        }
+    },
+    {
+        "name": "Elfriede Jelinek",
+        "birthYear": 1946,
+        "books": {
+            "standAlones": [
+                {
+                    "titles" : ["The Piano Teacher"]
+                }
+            ]
+        }
+    }
+    ]
